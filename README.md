@@ -19,7 +19,7 @@ Users should be able to:
 ### Links
 
 * Solution URL: [Github code](https://github.com/Notoriousgg/Order-summary-component)
-* Live Site URL: [Demo live]()
+* Live Site URL: [Demo live](https://notoriousgg.github.io/Order-summary-component/)
 
 ### Built with
 

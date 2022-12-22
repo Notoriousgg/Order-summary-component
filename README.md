@@ -1,6 +1,7 @@
 # Order-summary-component
 Bitcamp fall 2022 challenge 3. Build Order summary component
-![Screenshot from 2022-12-22 18-10-23](https://user-images.githubusercontent.com/118678607/209152346-233a862f-a2cf-467e-8472-d36a6a107363.png)
+
+![Screenshot from 2022-12-22 18-21-48](https://user-images.githubusercontent.com/118678607/209154551-ea761736-ec6f-44a6-8843-1774f62cb9f4.png)
 
 challenge Frontendmentor: [Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 
